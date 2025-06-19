@@ -15,8 +15,8 @@ import jakarta.servlet.http.HttpServletResponse;
  *
  * @author heerd
  */
-@WebServlet(urlPatterns = {"/login"})
-public class login extends HttpServlet {
+//@WebServlet(urlPatterns = {"/login"})
+public class login1 extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>

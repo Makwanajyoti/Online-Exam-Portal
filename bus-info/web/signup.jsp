@@ -1,9 +1,3 @@
-<%-- 
-    Document   : signup
-    Created on : 19-Jun-2025, 2:33:12 pm
-    Author     : heerd
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
